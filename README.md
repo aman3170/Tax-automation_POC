@@ -36,3 +36,7 @@ Parse it into a JSON format suitable for PDF generation.
 
 ## Generate PDF from JSON 
 Create a PDF and store it back in S3:/processed/filename.pdf.
+
+
+<img width="523" alt="image" src="https://github.com/user-attachments/assets/a61dc618-064b-4782-b9e5-fbebdb3f8601" />
+
