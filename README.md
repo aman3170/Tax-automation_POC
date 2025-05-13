@@ -15,8 +15,8 @@ Use curl to POST file to AWS API Gateway endpoint.
 ```
 curl -X POST https://<AWS API endpoint>/upload \
   -H "Content-Type: application/pdf" \
-  -H "filename: sample1.pdf" \
-  --data-binary "@sample1.pdf"
+  -H "filename: sample2.pdf" \
+  --data-binary "@sample2.pdf"
 ```
 ## AWS S3 + API Gateway + Lambda (File Upload Handler)
 
